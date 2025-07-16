@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, ich bin Filip!<br><br>Ich bin ein Entwickler mit Fokus auf React, TypeScript, PHP und verschiedenen CMS wie Neos und Strapi.<br><br>📌 Aktuelle Projekte:<br><br>    Entwicklung eines "Spy"-Games mit WebRTC und Next.js<br>    Aufbau eines einfachen CMS mit Nest.js & Next.js<br><br>💡 Ich interessiere mich für Algorithmus-Visualisierung, Websockets & moderne Web-Technologien.<br><br>🚀 Ich suche aktuell nach einer neuen Herausforderung – nicht unbedingt in der Webentwicklung.<br><br>🔗 Schau dir meine Projekte an und lass uns connecten!
+👋 Hi, ich bin Filip!<br><br>Ich bin ein Entwickler mit Fokus auf React, TypeScript, PHP und verschiedenen CMS wie Neos und Strapi.<br><br>🚀 Ich suche aktuell nach einer neuen Herausforderung, nicht unbedingt in der Webentwicklung.<br><br>🔗 Schau dir meine Projekte an und lass uns connecten!
 
 
 # 💻 Tech Stack:
